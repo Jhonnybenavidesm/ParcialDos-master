@@ -27,7 +27,7 @@ import java.util.List;
 public class GameActivity extends AppCompatActivity {
 
 
-    FloatingActionButton fab;
+    FloatingActionButton floa;
 
     RecyclerView recyclerView;
 
